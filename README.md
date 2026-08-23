@@ -1,29 +1,27 @@
-# Joe Carter — Python Project Archive
+# Hi, I'm Joe 👋
 
-I originally completed projects from Angela Yu's 100 Days of Code course across 2021–2023. After the original files were lost during a laptop change, these projects were reconstructed in 2026 with substantial AI coding assistance. The Git history represents the reconstruction and first GitHub publication, not the original course timeline.
+I'm a Python-focused developer based in Swansea, UK. I enjoy learning by building practical projects, from small command-line programs and desktop tools to web applications, REST APIs and data analysis.
 
-This profile collects twelve Python projects covering command-line programs, object-oriented design, desktop interfaces, APIs, web development and data analysis.
+My repositories reflect a hands-on approach to programming: breaking problems into manageable pieces, testing the important logic and gradually improving how projects are organised.
 
-## Web and data
+## Technologies I use
 
-- [Flask Blog](https://github.com/j0ecarter/flask-blog) — accounts, posts, comments and SQLite
-- [Cafe REST API](https://github.com/j0ecarter/cafe-rest-api) — searchable café data and protected mutations
-- [Nobel Data Explorer](https://github.com/j0ecarter/nobel-data-explorer) — Pandas, notebooks and charts
-- [Web Price Tracker](https://github.com/j0ecarter/web-price-tracker) — HTML parsing and target-price checks
+- Python, Flask and SQLite
+- Pandas and Jupyter notebooks
+- Tkinter and Turtle graphics
+- REST APIs, JSON and HTML parsing
+- Pytest, Ruff and GitHub Actions
 
-## APIs and automation
+## A few projects
 
-- [Flight Deal Finder](https://github.com/j0ecarter/flight-deal-finder) — price thresholds and provider data
-- [ISS Overhead Notifier](https://github.com/j0ecarter/iss-overhead-notifier) — position, daylight and optional alerts
+- [Flask Blog](https://github.com/j0ecarter/flask-blog) — authentication, posts, comments and SQLite persistence
+- [Cafe REST API](https://github.com/j0ecarter/cafe-rest-api) — a tested Flask API with protected data changes
+- [Nobel Data Explorer](https://github.com/j0ecarter/nobel-data-explorer) — reproducible analysis and charts using Pandas
+- [Password Manager](https://github.com/j0ecarter/tkinter-password-manager) — a local Tkinter application with JSON storage
 
-## Desktop applications
+## Connect
 
-- [Password Manager](https://github.com/j0ecarter/tkinter-password-manager) — local JSON storage and password generation
-- [Flash Cards](https://github.com/j0ecarter/tkinter-flash-cards) — timed study cards and saved progress
+- [LinkedIn](https://www.linkedin.com/in/joecarterr)
+- Explore my pinned repositories below
 
-## Games and fundamentals
-
-- [Blackjack](https://github.com/j0ecarter/python-blackjack) — cards, scoring and command-line play
-- [Coffee Machine](https://github.com/j0ecarter/oop-coffee-machine) — recipes, resources and object-oriented design
-- [Snake](https://github.com/j0ecarter/python-snake-game) — Turtle graphics, movement and collisions
-- [Pong](https://github.com/j0ecarter/python-pong) — two-player controls, physics and scoring
+> **Project archive note:** I originally completed projects from Angela Yu's 100 Days of Code course across 2021–2023. After the original files were lost during a laptop change, the course projects were reconstructed in 2026 with substantial AI coding assistance. Their Git histories represent the reconstruction and first GitHub publication, not the original course timeline.
