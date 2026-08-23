@@ -23,5 +23,3 @@ My repositories reflect a hands-on approach to programming: breaking problems in
 
 - [LinkedIn](https://www.linkedin.com/in/joecarterr)
 - Explore my pinned repositories below
-
-> **Project archive note:** I originally completed projects from Angela Yu's 100 Days of Code course across 2021–2023. After the original files were lost during a laptop change, the course projects were reconstructed in 2026 with substantial AI coding assistance. Their Git histories represent the reconstruction and first GitHub publication, not the original course timeline.
