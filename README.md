@@ -1,6 +1,6 @@
 # Hi, I'm Joe 👋
 
-I'm a Python-focused developer based in Swansea, UK. I enjoy learning by building practical projects, from small command-line programs and desktop tools to web applications, REST APIs and data analysis.
+I'm a Python-focused developer and student based between Swansea and Bath. I enjoy learning by building practical projects, from small command-line programs and desktop tools to web applications, REST APIs and data analysis.
 
 My repositories reflect a hands-on approach to programming: breaking problems into manageable pieces, testing the important logic and gradually improving how projects are organised.
 
