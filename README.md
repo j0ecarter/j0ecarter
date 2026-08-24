@@ -14,6 +14,7 @@ My repositories reflect a hands-on approach to programming: breaking problems in
 
 ## A few projects
 
+- [PYBL](https://github.com/j0ecarter/pybl) — a work-in-progress embedded hardware and haptics prototype
 - [Flask Blog](https://github.com/j0ecarter/flask-blog) — authentication, posts, comments and SQLite persistence
 - [Cafe REST API](https://github.com/j0ecarter/cafe-rest-api) — a tested Flask API with protected data changes
 - [Nobel Data Explorer](https://github.com/j0ecarter/nobel-data-explorer) — reproducible analysis and charts using Pandas
